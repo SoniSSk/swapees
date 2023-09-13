@@ -2,7 +2,7 @@
 
 A simple portfolio template for developer/designers built with React. 
 
-### [live preview](https://sonissk.github.io/swapees/)
+<!-- ### [live preview](https://sonissk.github.io/swapees/) -->
 
 
 ### Features

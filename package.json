@@ -1,5 +1,5 @@
 {
-    "homepage": "http://SoniSSk.github.io/swapees",
+    "homepage": "https://sonissk.github.io/swapees/",
     "name": "swapees",
     "version": "0.1.0",
     "private": true,
@@ -22,7 +22,7 @@
         "test": "react-scripts test",
         "eject": "react-scripts eject",
         "predeploy": "npm run build",
-        "deploy": "gh-pages -b main -d build"
+        "deploy": "gh-pages -b kuldeepsoni -d build"
     },
     "eslintConfig": {
         "extends": [
